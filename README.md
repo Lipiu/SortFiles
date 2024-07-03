@@ -1,4 +1,4 @@
-# A python script that when run it searches for files with following extensions: 
+ A python script that when run it searches for files with following extensions: 
   .doc 
   .docx
   .xlsx
