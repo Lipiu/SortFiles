@@ -1,4 +1,7 @@
- A python script that when run it searches for files with following extensions: 
+# A python script that sorts files
+This python script searches for files with the following extensions and if it finds any it creates a folder with the name of the extension and puts those files there.
+
+EXTENSIONS:
   .doc 
   .docx
   .xlsx
@@ -9,4 +12,4 @@
   .zip
   .rar
   .txt
-and automatically creates a folder and sorts all the files in each folder
+
